@@ -32,7 +32,7 @@ function App() {
           className="border p-3 w-full rounded-lg shadow-lg shadow-black"/>
         </div >
         <div>
-        <h6 className='pt-4 text-slate-950 '>CASIO</h6>
+        <h6 className='pt-4 text-slate-950   '>CASIO (Ravina)</h6>
       </div>
         <div class="grid grid-cols-4 gap-2 p-2" >
         <input onClick={clearAll} type="button" value="AC" id=" AC"className="bg-red-500 p-2 rounded-lg col-span-2"/>
